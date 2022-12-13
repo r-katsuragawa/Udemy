@@ -2,3 +2,4 @@ gitの練習
 gitのワークフロー
 変更
 hennkou 
+git status
